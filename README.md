@@ -1,5 +1,3 @@
 # analyzing-historical-stock-data
 
-##Hello
-
-Markdown this
+Final Assignment of IBM Data Analyst
